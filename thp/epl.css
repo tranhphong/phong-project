@@ -1,0 +1,146 @@
+h1{
+ color: white;   
+}
+h2{
+ color: white;   
+}
+body{
+    text-align: center;
+    font-weight: bolder;
+    background-color: blueviolet
+}
+.team1{
+    color:red;
+}
+.team1:hover{
+    color: white;
+}
+.team2{
+    color: maroon;
+}
+.team2:hover{
+    color:cornflowerblue;
+}
+.team3{
+    color: red;
+}
+.team3:hover{
+    color:black;
+}
+.team4{
+    color: red;
+}
+.team4:hover{
+    color:white;
+}
+.team5{
+    color:dodgerblue;
+}
+.team5:hover{
+    color: white;
+}
+.team6{
+    color: maroon;
+}
+.team6:hover{
+    color:aqua;
+}
+.team7{
+    color: blue;
+}
+.team7:hover{
+    color: white;
+}
+.team8{
+    color: darkblue;
+}
+.team8:hover{
+    color:red;
+}
+.team9{
+    color: mediumblue;
+}
+.team9:hover{
+    color: white;
+}
+.team10{
+    color: white;
+}
+.team10:hover{
+    color:black;
+}
+.team11{
+    color: red;
+}
+.team11:hover{
+    color:yellow;
+}
+.team12{
+    color: orangered;
+}
+.team12:hover{
+    color:white;
+}
+.team13{
+    color:aqua;
+}
+.team13:hover{
+    color: white;
+}
+.team14{
+    color: red;
+}
+.team14:hover{
+    color:black;
+}
+.team15{
+    color: white;
+}
+.team15:hover{
+    color: black;
+}
+.team16{
+    color: red;
+}
+.team16:hover{
+    color:white;
+}
+.team17{
+    color:crimson;
+}
+.team17:hover{
+    color: white;
+}
+.team18{
+    color: white;
+}
+.team18:hover{
+    color: darkblue;
+}
+.team19{
+    color: maroon;
+}
+.team19:hover{
+    color: aqua;
+}
+.team20{
+    color: gold;
+}
+.team20:hover{
+    color: black;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+button{
+    width: 100px;
+    height: 20px;
+    border-radius: 20px;
+    background-color: black;
+    color: whitesmoke;
+}
+button:hover{
+    background-color: whitesmoke;
+    color: black;
+}

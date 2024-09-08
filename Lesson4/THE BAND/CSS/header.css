@@ -1,0 +1,54 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 48px;
+    background-color: #333;
+}
+
+.nav .nav-item a{
+    text-transform: uppercase;
+    color: #fff;
+    line-height: 48px;
+}
+.nav{
+    display: flex;
+}
+
+.nav .nav-item{
+    padding: 0px 20px;
+    position: relative;
+}
+
+.nav .nav-item:hover{
+    background-color: #ccc;
+    cursor: pointer;
+}
+
+.nav .nav-item:hover > a{
+    color: #333
+}
+
+.nav > li > .sub-nav{
+    display: none;
+    background-color: #333;
+    box-shadow: 1px 1px 1px 1px #333;
+    position: absolute;
+    width: 200px;
+    left: 0px;
+}
+
+.nav > li:hover > .sub-nav{
+    display: block;
+}
+
+.sub-nav > li > a{
+    color: #fff !important; 
+    padding-left: 10px;
+}
+
+.sub-nav > li:hover{
+    background-color: #ccc;
+}

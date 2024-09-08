@@ -1,0 +1,219 @@
+header{
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+.nav{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.nav .lzd-nav >a{
+    text-transform: uppercase;
+    color: #000;
+    font-size: 12px;
+}
+.nav .lzd-nav{
+    padding: 0px 10px;
+    position: relative;
+}
+.nav .lzd-nav:hover >a{
+    color: red;
+    cursor:pointer;
+}
+    #J_CampaignBanner {  
+    left: 0;
+    position: relative;
+    right: 0;
+    top: 0;
+}
+
+.outline-none{
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+}
+.text-gray-400{
+    --tw-text-opacity: 1;
+    color: #333;
+}
+.py-1{
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}
+.px-4{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.ng-transparent{
+    background-color: #fff;
+}
+.border-none{
+    border-style:none;
+}
+.w-full{
+    width: 100%;
+}
+.text-white{
+    --tw-text-opacity:1;
+    color: rgb(255, 255, 255)
+}
+.py-2{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    
+}
+.px-4{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.bg-blue-600{
+    --tw-bg-opacity: 1;
+    
+    background-color: rgb(255, 255, 255);
+}
+.rounded{
+    border-radius: 0.25rem;
+}
+.m-2{
+    margin: 0.5rem;
+}
+
+.picture-wrapper{
+    align-items: center;
+    flex-shrink: 0;
+    height: 100%;
+    justify-content: center;
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+}
+.picture-wrapper >img{
+    max-height: 100%;
+    max-width: 100%;
+}
+.mini-app{
+    align-items: center;
+    display: inline-flex;
+    height: 100%;
+    justify-content: center;
+    overflow: hidden;
+    width: 100%;
+    border-style: inset;
+}    
+.mini-app >img{
+    display: inline-block;
+    max-width: 100%;
+    max-height: 100%;
+}
+.product .picture-wrapper .title{
+    font-size: 22px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: left;
+
+}
+p{
+    margin: 0;
+}
+.fs-price{
+    color:red;
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+    height: 22px;
+    letter-spacing: -.56px;
+    line-height: 22px;
+    margin-bottom: 4px;
+}
+
+
+.currency{
+    font-size: 20px;
+    
+}
+.price{
+    font-size: 30px;
+    
+}
+.previous-currency{
+    font-size: 12px;
+}
+.previous-price{
+    font-size: 12px;
+}
+.discount{
+    color:#000;
+    font-size: 12px;
+    margin-left: 4px;
+}
+.add-to-cart-buy-now-btn{
+    padding: 0;
+    width: 225px;
+    text-align: center;
+    margin-right: 10px;
+    border: 0;
+}
+.kit{
+    display: flex;
+}
+.pdp-button_theme_yellow{
+    background-color: #ffb916;
+    color: #fff;
+}
+.pdp-button_theme_orange{
+    background-color: #f57224;
+    color: #fff;
+}
+.pdp-button_size_xl{
+    height: 44px;
+    font-size: 16px;
+}
+.pdp-button{
+    border-radius: 2px;
+    transition: all .3s ease-out;
+    outline: none;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.price1{
+    font-size: 30px;
+    color: red;
+}
+.currency1{
+    font-size: 20px;
+    color: red;
+}
+.hp-mod-card-title{
+    color: #333;
+    font-size: 22px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.card-categories-ul{
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    min-height: 297px;
+    width: 100%;
+}
+.card-categories-li{
+    background-color: #fff;
+    border-bottom: 1px solid #999;
+    border-right: 1px solid #999;
+    height: 150px;
+    width: 12.5%;
+}
+.card-categories-li-content{
+    height: 100%;
+    padding-top: 16px;
+    width: 100%;
+}
+
+
+

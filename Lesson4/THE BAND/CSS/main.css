@@ -1,0 +1,57 @@
+#slider{
+    position: relative;
+    margin-top: 46px;
+    padding-top: 50%;
+    background: url(/Lesson4/THE\ BAND/img/img.jpg) top center / cover  no-repeat;
+}
+#slider .text-content{
+    position: absolute;
+    bottom: 45px;
+    color: #fff;
+    left: 50%;
+    text-align: center;
+}
+#slider .text-heading{
+    font-weight: 500;
+    font-side: 25px;
+
+}
+#slider .text-description{
+    font-size: 15px;
+}
+#content .content-heading{
+    width: 800px;
+    padding: 64px 0;
+    font-size: 30px;
+    font-weight: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#content .content-sub-heading{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 20px;
+}
+#content .text{
+    margin-top: 30px;
+    font-size: 15px;
+    text-align: justify;
+}
+#content .item{
+    float: left;
+    width: 30%;
+}
+
+#content .name-img{
+    width: 154px;
+    margin: 15px;
+}
+
+#content .name{
+    font-size: 15px;
+    text-align: center;
+}
+.clear{
+    clear: both;
+}

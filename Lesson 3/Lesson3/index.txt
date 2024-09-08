@@ -1,0 +1,3 @@
+justify content
+flex direction: row-reverse, column
+flex wrap: wrap

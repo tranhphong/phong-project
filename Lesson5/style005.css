@@ -1,0 +1,38 @@
+/*.box{
+    width: 100px;
+    height: 100px;
+}
+.box1{
+    background-color: yellow;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.box2{
+    background-color: #333;
+    position: absolute;
+    top: 200px;
+}
+.pre-header{
+    height: 200px;
+}
+
+.header{
+    background-color: #333;
+    width: 100%;
+    height: 80px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+}
+
+.body{
+    height: 2000px;
+}
+@media (max-width: 756px){
+.beatbox{
+    background-color: blue;
+}
+}/*

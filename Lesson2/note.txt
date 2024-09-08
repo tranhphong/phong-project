@@ -1,0 +1,33 @@
+Thẻ cơ bản
+Thẻ heading: h1 -> h6
+Hình ảnh: img
+Có 2 đường dẫn thêm hình ảnh
+Thẻ nhúng: iframe
+Thẻ a
+Thẻ table: Thread, th, body, tr, td
+Thẻ văn bản: Paragraph
+Thẻ span
+Button
+Label
+Input
+CSS có 2 cách để CSS cho 1 trang web (style)
+Cách 1: Internal
+Cách 2: External
+Cách 3: Inline
+
+CLASS (.): Những phần tử có tên class giống nhau sẽ có thuộc tính giống nhau
+id (#): Dùng cho 1 phần tử duy nhất
+Mức độ ưu tiên
+Element (tên thẻ): 1
+Class: 10
+id: 100
+HW: Bức thư
+Padding: Đệm
+Border: Viền
+Margin: Khoảng lề
+Giá trị sẽ chạy theo chiều kim đồng hồ
+1 giá trị: cả 4 hướng của phần tử đều đc áp dụng
+2 giá trị: trên-dưới -> trái-phải
+3 giá trị: trên -> trái-phải -> dưới
+4 giá trị: trên -> phải -> dưới -> trái
+border: cách viết ngắn (border-style; border-width; border-color)

@@ -1,0 +1,37 @@
+/* reset */
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#sidebar{
+    background-color: #333;
+    flex: 4;
+    
+}
+#container{
+    background-color: chocolate;
+    flex: 4;
+
+}
+#navbar{
+    background-color: #fff;
+    border: solid 1px skyblue;
+    height: 80px;
+}
+#content{
+    background-color: red;
+    height: 2000px;
+    flex: 1;
+    
+    
+    
+}
+#footer{
+    background-color: red;
+
+    
+}
+body{
+    display: flex;
+}
